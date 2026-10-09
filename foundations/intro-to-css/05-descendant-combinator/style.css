@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+/* 
+This is another method of styling decendant element/s under a <div> container that have the same element type or class.
+
+div>
+p{
+  color: red;
+  background-color: yellow;
+  text-align: center;
+}
+ */
+
+.container .text {
+  color: red;
+  text-align: center;
+  background-color: yellow;
+}

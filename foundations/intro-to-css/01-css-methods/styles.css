@@ -1,0 +1,8 @@
+/* External CSS method for <div> */
+div {
+  font-size: 32px;
+  color: white;
+  background-color: red;
+
+  text-align: center;
+}
